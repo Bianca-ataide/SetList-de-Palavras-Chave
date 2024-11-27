@@ -1,5 +1,3 @@
-package com.example.myapplication2.data
-
 val allWords: Set<String> =
     setOf(
         "Pagamento",
